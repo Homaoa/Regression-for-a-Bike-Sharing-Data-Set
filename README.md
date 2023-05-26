@@ -1,6 +1,6 @@
 # Regression-for-a-Bike-Sharing-DataSet
 
-A model is developed to estimate the count of total rental bikes including both casual and registered. Data cleaning, features engineering, model building, evaluating and tunning are done on the data. Linear, Lasso, Polynomial, and Random Forest Regressors are considered and also GridsearchCV is used to reach the best model. 
+A model is developed to estimate the count of total rental bikes including both casual and registered. Data cleaning, features engineering, model building, evaluating and tunning are done on the data. Multiple Linear Regression, Polynomial, Decision Tree, Random Forest and SVR regressors are considered. The evaluation of these models are obtained using R2. Also, GridSearchCV is used to tune and reach the best model. 
 
 Data Set Information:
 
@@ -31,7 +31,7 @@ I tried five different models and evaluated them using R2 score. I chose R2 beca
 
 I tried these four different models:
 
-                Multiple Linear Regression ,  Polynomial , DEcision Tree,  Random Forest , SVR 
+                Multiple Linear Regression ,  Polynomial , Decision Tree,  Random Forest , SVR 
                 
 
 Grid Search is also used in order to tune the parameters for Random Forest and SVR models.
