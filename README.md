@@ -1,4 +1,4 @@
-# Regression-for-a-Bike-Sharing-Dataset
+# Regression-for-a-Bike-Sharing-DataSet
 
 A model is developed to estimate the count of total rental bikes including both casual and registered. Data cleaning, features engineering, model building, evaluating and tunning are done on the data. Linear, Lasso, Polynomial, and Random Forest Regressors are considered and also GridsearchCV is used to reach the best model. 
 
