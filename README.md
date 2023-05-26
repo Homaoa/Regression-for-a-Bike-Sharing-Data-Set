@@ -23,13 +23,13 @@ EDA :
 In the Exploratory Data Analysis (EDA) part, I used histograms, bar charts, box charts and scatter plots to investigate the variables and their relation through visualization.
 I have also used statistical methods such as correlation and ANOVA to check the relation between the target variable (TotalBikes) and other variables.
 
-Model building , Evakuation and Tuning :
+Model building , Evaluation and Tuning :
 
 First, I transformed the categorical variables into dummy variables. I then split the data into train and tests sets with a test size of 20%.
 
 I tried five different models and evaluated them using R2 score. I chose R2 because it is relatively easy to interpret.
 
-I tried these four different models:
+I tried these five different Machine Learning models:
 
                 Multiple Linear Regression ,  Polynomial , Decision Tree,  Random Forest , SVR 
                 
