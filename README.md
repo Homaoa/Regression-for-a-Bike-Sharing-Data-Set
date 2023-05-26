@@ -19,5 +19,6 @@ For Casual and Registered variables since they make the target variable, I decid
 In the rest of the data cleaning and preparing process, I also changed the name of the variables, defined new variable, and change the type of variables which their types were not correct.
 
 EDA :
+
 In the Exploratory Data Analysis (EDA) part, I used histograms, bar charts, box charts and scatter plots to investigate the variables and their relation through visualization.
 I have also used statistical methods such as correlation and ANOVA to check the relation between the target variable (TotalBikes) and other variables.
