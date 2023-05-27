@@ -38,4 +38,4 @@ Grid Search is also used in order to tune the parameters for Random Forest model
 
 Model performance :
 
-Rondom Forest model outperformed other models, even though XGBoost and SVR also had very good performances, especially XGBoost. The better performance by Random Forest model happened after tunning its parameters by Grid Search.
+Random Forest model outperformed other models, even though XGBoost and SVR also had very good performances, especially XGBoost. The better performance by Random Forest model happened after tunning its parameters by Grid Search.
